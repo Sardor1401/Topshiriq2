@@ -1,0 +1,234 @@
+body{
+    max-width: 1440px;
+    margin: auto;
+}
+
+
+
+
+.header{
+    background-image: url('./rasmlar/orqa\ fon.jpg');
+    background-size: cover;
+    padding: 120px;
+}
+
+.header  img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 50px;
+}
+
+.logo-write{
+    position: relative;
+    color: darkgray;
+    left: 50px;
+    bottom: 90px;
+}
+
+.write{
+    color: white;
+    font-size: 20px;
+}
+
+.center-write{
+    position: relative;
+    top: 50px;
+    color: darkgray;
+    font-size: 50px;
+}
+
+.header button{
+    position: relative;
+    top: 80px;
+    padding: 10px;
+    padding-right: 40px;
+    text-align: center;
+    border: solid 2px white;
+    background-color: none;
+    text-decoration: none;
+    color: darkgray;
+}
+
+.header button b{
+    margin-left: 30px;
+}
+
+
+.section-write{
+    color: white;
+    text-align: center;
+}
+
+.section-2{
+    text-align: center;
+    padding: 150px;
+    background-color:  rgb(41, 24, 11);
+}
+
+.section-button p{
+    border: solid 2px darkgray;
+    padding: 10px;
+    display: inline;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    color: white;
+}
+
+.section-3-write{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.container img{
+    width: 300px;
+    height: 300px;
+}
+
+.container input{
+    text-decoration: none;
+}
+
+.section-3{
+    background-color: rgb(214, 206, 206);
+    padding: 50px   ;
+}
+
+.section-4-write{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.lorems{
+    text-align: center;
+    color: rgb(211, 207, 207);
+}
+.section-4-button{
+    display: flex;
+    justify-content: center;
+}
+
+.section-4-button button{
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+    border: solid 2px darkgray;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.section-4{
+    background-image: url('./rasmlar/0.jpg');
+    background-size: cover;
+    padding: 150px;
+}
+
+.section-5 img{
+    width: 300px;
+    height: 300px;
+}
+
+.writes p{
+    font-size: 30px;
+}
+
+.contanier2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 120px;
+    
+}
+ .section-5{
+    background-color: darkgray;
+ }
+
+
+ .section-6-write{
+    font-size: 40px;
+    text-align: center;
+ }
+
+ .section-6{
+    background-color: rgb(187, 184, 184);
+    padding: 80px;
+ }
+
+ .container3{
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+ }
+
+ .one-section{
+    color: gray;
+ }
+
+ .one-section img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+ }
+
+ .one-logo-write{
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+    color: gray;
+ }
+
+ .section-7-write{
+    font-size: 20px;
+ }
+
+ .section-7{
+    display: flex;
+    justify-content:space-around;
+    
+ }
+
+ .one-section{
+    padding: 70px;
+    width: 35%;
+    background-color: rgb(70, 43, 7);
+ }
+
+ .links a{
+    letter-spacing: 5px;
+    color: gray;
+    border-radius: 50px;
+    text-decoration: none;
+ }
+
+ .one-button .tugma1{
+    padding: 12px;
+    color: gray;
+    background-color: rgb(70, 43, 7);
+ }
+
+ .one-button .tugma2{
+    background-color: white;
+    padding: 12px;
+    color: gray;
+ }
+
+
+ .two-section{
+    background-image: url('./rasmlar/7.jpg');
+    background-size: cover;
+    width: 60%;
+ }
+
